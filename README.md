@@ -12,7 +12,7 @@ The objective of this project is to demonstrate data visualization, business int
 
 > 
 
-![Dashboard](Dashboard.png)
+![Dashboard](GlowNest_Dashboard.png)
 
 ---
 🎯 Business Objectives
